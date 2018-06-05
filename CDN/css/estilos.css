@@ -1,0 +1,302 @@
+.imagenprincipal{
+	width: 60%;
+	border-radius: 14px;
+	margin-top: 7%;
+}
+.linea1{
+	margin-top:1%;
+	border-bottom: 1px solid #eaefed;
+	
+}
+.iniciarsesion{
+	font-family: fantasy;
+	color:#449957;
+}
+.fifafriends{
+	font-family: fantasy;
+	font-size: 70px;
+	color:#0b3a15;
+	text-align:center; 
+}
+.menuarriba{
+	margin-top: 12%;
+	list-style: none;
+}
+.menuderecha{
+	list-style: none;
+
+
+}
+.li{
+	display:inline-block;
+	padding:10px;
+	text-align: center;
+	float:right;
+}
+.body2{
+	background-image: url("../imagenes/imagenfondo.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.fondocontenedor{
+	background-color: white;
+	margin-top: 3%;
+	min-height: 550px;
+	 overflow: hidden;
+}
+.columnaderecha{
+	
+	background-color: #e3ede6;
+	margin-bottom: -600000px;
+    padding-bottom: 5000px;
+    border-radius: 5px;
+}
+.limenuderecha{
+	padding: 10px;
+	margin-right: 15px;
+	
+}
+.puntos{
+	background-color: #eaecf7;
+	text-align: center;
+}
+.puesto{
+	background-color: #eaecf7;
+	padding:5px;
+	border-radius: 3px;
+	margin-right: 5px;
+}
+.imgequipos{
+	width: 30px;
+}
+.resul{
+	width: 10%;
+	text-align: center;
+
+}
+.equiposv{
+	text-align: center;
+}
+.colorresul{
+	background-color: #edefea;
+}
+.diferenciap{
+	color:#37cc9f;
+}
+.diferencian{
+	color:#ff4953;
+}
+.imgmando{
+	margin-left: 6px;
+	font-size: 17px;
+	color:#3171d8;
+}
+.iniciotemp{
+	text-align: center;
+	margin-top: 55px;
+}
+.preparando{
+	text-align: center;
+	font-family: JAK ARTA;
+	color:#289134;
+
+}
+.login{
+	background-color: #011433;
+}
+.conlogin{
+	background-color: white;
+	padding:30px;
+	border-radius: 7px;
+	
+}
+.h1login{
+	font-family: fantasy;
+	text-align: center;
+	margin-top: 0;
+}
+.generallogin{
+	margin-top: 4%;
+	padding:15px;
+}
+.columnados{
+	text-align: center;
+}
+.elegirequipo{
+	margin-top: 40px;
+}
+.h1elegir{
+	font-family: fantasy;
+	text-align: center;
+	margin-top: 0;
+	color:#25913e;
+}
+.formuescoger{
+	text-align: center;
+	margin-top: 40px;
+}
+.eligiendoequipo{
+	background-color: #e1ede4;
+}
+.balon{
+	margin-bottom: 20px;
+}
+.imgelegir{
+	width: 100%;
+}
+.imgelegir:hover{
+	opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+.botonescudos{
+	text-align: center;
+}
+.cerrado{
+	color:#e50917;
+}
+.abierto{
+	color:#10a377;
+}
+.escudoequi{
+	width: 50%;
+	margin-top: 10px;
+}
+.nombreequipover{
+	text-align: center;
+}
+.puntosver{
+	text-align: center;
+}
+.thead-dark{
+	background-color: #596270;
+	color:#ffffff;
+}
+.total{
+	font-size:15px;
+}
+.tablamiequipo{
+	display: none;
+	margin-top:2%;
+}
+#botonver2{
+	display: none;
+}
+#botonver2dos{
+	display: none;
+}
+.botonverde{
+	margin-bottom: 40px;
+	text-align: center;
+}
+.botonnaranja{
+	visibility: hidden;
+}
+.borrarmensaje{
+	font-size: 70%;
+	text-align: center;
+	background-color: #110501;
+	color:#ffffff;
+}
+.mensajesnormales{
+	color:#4e847d;
+	text-align: center;
+}
+.inputpre{
+	width: 50%;
+	text-align: center;
+	background-color:#1c81a5; 
+	color:#ffffff;
+	border:1px solid #1c81a5;
+	border-radius: 3px;
+}
+#escudo{
+	text-align: center;
+}
+#venderjugadorinput{
+	margin-top: 8px;
+	margin-left: 10px;
+	float:left;
+}
+.aceptar{
+	display: none ;
+}
+#venderjugadorazul{
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+#novenderjugadorojo{
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+.h6vender{
+	margin-left: 10px;
+}
+.select{
+	margin-left: 10px;
+	padding:4px;
+}
+.aceptar{
+ text-align: center;
+}
+.despedido{
+	color:#d62237;
+}
+.derecha{
+	text-align: right;
+}
+#check{
+	display: none;
+}
+.seleccionar{
+	color:#d62050;
+}
+.escudofichajes{
+	width: 50px;
+}
+.salarioclausula{
+	width: 115%;
+    padding: 3px;
+	text-align: center;
+}
+.salarioclausula2{
+	text-align: center;
+	width: 115%;
+	padding: 3px;
+}
+.salarioclausula3{
+	padding: 3px;
+}
+.botonfichar{
+	background-color:#000000;
+	color:#d5f9b3;
+	border-radius: 5px;
+	padding: 5px;
+}
+.jugadorafichar{
+	background-color: #042577;
+	color:#ffffff;
+	padding: 10px;
+	border-radius: 5px;
+}
+.h4fichajes{
+	background-color: #0071a5;
+	color:#ffffff;
+	padding: 10px;
+	border-radius: 3px;
+}
+.h4fichaje{
+	background-color: #4f7d87;
+	color:#ffffff;
+	padding: 10px;
+	border-radius: 3px;
+}
+.nuevosalario{
+	background-color: #4f7d87;
+	color:#ffffff;
+}
+.jugador{
+	color:#f20018;
+}
+#campeonh1{
+	text-align: center;
+}
